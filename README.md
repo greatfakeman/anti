@@ -1,5 +1,5 @@
 
-git clone https://github.com/greatfakeman/anti.git && cd permag.ir && chmod +x permag.sh && ./permag.sh install && ./permag.sh
+git clone https://github.com/greatfakeman/anti.git && cd anti && chmod +x permag.sh && ./permag.sh install && ./permag.sh
 
 
 ======================
